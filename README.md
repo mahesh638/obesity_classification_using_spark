@@ -1,2 +1,2 @@
 # obesity_classification_using_spark
-In this task
+In this task a Random Forest classifier was developed using Python Spark and Spark MLlib on Databricks' computing clusters, achieving an 89% accuracy in identifying obesity risk, with data analysis supported by SparkSQL. The project involved efficient data management and operations on MongoDB Atlas, utilizing its NoSQL database capabilities for scalable and flexible data integration. This approach showcased the effective use of cloud computing resources and advanced machine learning techniques for advanced obesity risk classification.
